@@ -38,3 +38,6 @@ class Eb
 		}
 		System.out.println("Bill to pay is ="+bill);
 	}
+ }
+
+
